@@ -1,0 +1,1 @@
+Had to do git push --mirror git@github.com:aaStrobel/NLP_Internship_Project.git to push...while I'm cd'd in build-an-avatar
